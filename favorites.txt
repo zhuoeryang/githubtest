@@ -1,3 +1,7 @@
 Chicken
 Beef
 Egg
+Daylight
+Woods
+human
+
